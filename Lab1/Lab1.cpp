@@ -1,9 +1,12 @@
 // Lab1_2024-2.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
+//olaaaaaaa
+//ola
+//ola
 
 #include <iostream>
-const int MAX = 16;
-
+const int MAX = 17;
+//ola
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
@@ -79,3 +82,4 @@ void show_decoded_word(int n, int coded_word_numbers[], char coded_word[]) {
 //   4. Use la ventana Lista de errores para ver los errores
 //   5. Vaya a Proyecto > Agregar nuevo elemento para crear nuevos archivos de código, o a Proyecto > Agregar elemento existente para agregar archivos de código existentes al proyecto
 //   6. En el futuro, para volver a abrir este proyecto, vaya a Archivo > Abrir > Proyecto y seleccione el archivo .sln
+//olaaaa
